@@ -1,0 +1,13 @@
+D:\c# application building\crud_itpm\Crud_operation\bin\Debug\Crud_operation.exe.config
+D:\c# application building\crud_itpm\Crud_operation\bin\Debug\Crud_operation.exe
+D:\c# application building\crud_itpm\Crud_operation\bin\Debug\Crud_operation.pdb
+D:\c# application building\crud_itpm\Crud_operation\obj\Debug\Crud_operation.csprojAssemblyReference.cache
+D:\c# application building\crud_itpm\Crud_operation\obj\Debug\Crud_operation.Form1.resources
+D:\c# application building\crud_itpm\Crud_operation\obj\Debug\Crud_operation.Properties.Resources.resources
+D:\c# application building\crud_itpm\Crud_operation\obj\Debug\Crud_operation.csproj.GenerateResource.cache
+D:\c# application building\crud_itpm\Crud_operation\obj\Debug\Crud_operation.csproj.CoreCompileInputs.cache
+D:\c# application building\crud_itpm\Crud_operation\obj\Debug\Crud_operation.exe
+D:\c# application building\crud_itpm\Crud_operation\obj\Debug\Crud_operation.pdb
+D:\c# application building\crud_itpm\Crud_operation\obj\Debug\Crud_operation.Form2.resources
+D:\c# application building\crud_itpm\Crud_operation\obj\Debug\Crud_operation.Form3.resources
+D:\c# application building\crud_itpm\Crud_operation\obj\Debug\Crud_operation.Form4.resources
